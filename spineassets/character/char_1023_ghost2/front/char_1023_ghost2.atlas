@@ -62,7 +62,7 @@ B_Hat_T
   index: -1
 B_L_Bow_T
   rotate: false
-  xy: 602, 744
+  xy: 980, 744
   size: 19, 14
   orig: 19, 14
   offset: 0, 0
@@ -580,14 +580,14 @@ F_FingerD2_T
   index: -1
 F_FingerD3
   rotate: false
-  xy: 709, 742
+  xy: 382, 743
   size: 10, 16
   orig: 10, 16
   offset: 0, 0
   index: -1
 F_FingerD3_T
   rotate: false
-  xy: 382, 742
+  xy: 642, 748
   size: 10, 15
   orig: 10, 15
   offset: 0, 0
@@ -811,7 +811,7 @@ F_L_BeltB2
   index: -1
 F_L_Bow_T
   rotate: false
-  xy: 623, 744
+  xy: 602, 744
   size: 19, 14
   orig: 19, 14
   offset: 0, 0
@@ -1350,7 +1350,7 @@ F_R_HairB
   index: -1
 F_R_Hand2
   rotate: false
-  xy: 980, 743
+  xy: 623, 744
   size: 18, 15
   orig: 18, 15
   offset: 0, 0

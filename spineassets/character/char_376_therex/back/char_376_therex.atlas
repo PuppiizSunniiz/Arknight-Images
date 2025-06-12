@@ -32,16 +32,30 @@ B_L_Tyre
   orig: 54, 50
   offset: 0, 0
   index: -1
-B_R_Tyre
+B_L_Tyre_2
   rotate: true
   xy: 2, 43
   size: 54, 50
   orig: 54, 50
   offset: 0, 0
   index: -1
+B_R_Tyre
+  rotate: false
+  xy: 304, 396
+  size: 54, 50
+  orig: 54, 50
+  offset: 0, 0
+  index: -1
+B_R_Tyre_2
+  rotate: false
+  xy: 360, 396
+  size: 54, 50
+  orig: 54, 50
+  offset: 0, 0
+  index: -1
 B_Wire
   rotate: false
-  xy: 304, 430
+  xy: 48, 127
   size: 30, 16
   orig: 30, 16
   offset: 0, 0
