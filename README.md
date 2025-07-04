@@ -23,3 +23,6 @@
     - Subclass : Folder for ***archetype*** icon
 
 ---
+
+Credit : Spineasset method
+ - [Ark-Unpacker](https://github.com/isHarryh/Ark-Unpacker/)
