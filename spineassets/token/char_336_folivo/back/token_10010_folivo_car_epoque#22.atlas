@@ -4,58 +4,58 @@ size: 128,128
 format: RGBA8888
 filter: Linear,Linear
 repeat: none
-F_Body
+B_Body
   rotate: false
-  xy: 2, 75
-  size: 78, 40
-  orig: 78, 40
+  xy: 2, 80
+  size: 77, 37
+  orig: 77, 37
   offset: 0, 0
   index: -1
-F_Guard
+B_Guard
   rotate: true
-  xy: 102, 42
-  size: 21, 13
-  orig: 21, 13
+  xy: 104, 42
+  size: 23, 13
+  orig: 23, 13
   offset: 0, 0
   index: -1
-F_Head
+B_Head
   rotate: true
-  xy: 2, 19
-  size: 54, 47
-  orig: 54, 47
+  xy: 2, 24
+  size: 54, 48
+  orig: 54, 48
   offset: 0, 0
   index: -1
-F_Line
+B_Line
   rotate: true
-  xy: 51, 68
+  xy: 52, 73
   size: 5, 9
   orig: 5, 9
   offset: 0, 0
   index: -1
-F_Wheel_A
+B_Wheel_A
   rotate: false
-  xy: 77, 39
-  size: 23, 24
-  orig: 23, 24
-  offset: 0, 0
-  index: -1
-F_Wheel_B
-  rotate: false
-  xy: 82, 91
+  xy: 81, 93
   size: 24, 24
   orig: 24, 24
   offset: 0, 0
   index: -1
-F_Wheel_C
+B_Wheel_B
   rotate: false
-  xy: 82, 65
+  xy: 81, 67
   size: 24, 24
   orig: 24, 24
   offset: 0, 0
   index: -1
-F_Wheel_D
+B_Wheel_C
   rotate: false
-  xy: 51, 39
+  xy: 52, 41
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+B_Wheel_D
+  rotate: false
+  xy: 78, 41
   size: 24, 24
   orig: 24, 24
   offset: 0, 0
